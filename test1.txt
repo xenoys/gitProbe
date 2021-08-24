@@ -1,4 +1,7 @@
 lololo
 lalalalallalala
 alala
+<<<<<<< Updated upstream
 dldlldalalalal
+=======
+>>>>>>> Stashed changes
